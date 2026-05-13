@@ -1,2 +1,22 @@
-# Console-Based-Library-Management-System
-Library Management System is a console-based Python project that lets users add, view, search, borrow, and return books. It uses OOP and JSON file handling for data storage and demonstrates key concepts like lists, dictionaries, loops, and menu-driven programming for beginners.
+# Library Management System (Python)
+
+A simple console-based Library Management System built using Python.
+
+## Features
+- View all books
+- View available books
+- Add new books
+- Borrow books
+- Return books
+- Search books
+
+## Concepts Used
+- Python OOP (Classes)
+- File Handling (JSON)
+- Lists & Dictionaries
+- Loops & Conditions
+- Menu-driven program
+
+## How to Run
+```bash
+python main.py
