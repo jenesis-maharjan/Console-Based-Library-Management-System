@@ -1,0 +1,26 @@
+[
+    {
+        "title": "Python Basics",
+        "available": true
+    },
+    {
+        "title": "Java Fundamentals",
+        "available": true
+    },
+    {
+        "title": "DSA Guide",
+        "available": false
+    },
+    {
+        "title": "Web Development with Django",
+        "available": true
+    },
+    {
+        "title": "Data Science with Python",
+        "available": true
+    },
+    {
+        "title": "Software Engineering",
+        "available": true
+    }
+]
